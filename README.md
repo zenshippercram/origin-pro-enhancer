@@ -55,4 +55,4 @@ Grab the latest release from the download link above.
 ---
 
 ## Legal
-> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.                    
+> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.                     
